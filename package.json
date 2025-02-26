@@ -1,9 +1,14 @@
 {
-  "name": "directus-extension-favicon",
+  "name": "@olympusone/directus-extension-favicon",
   "description": "Expose the favicon of the Directus instance",
   "icon": "extension",
   "version": "1.0.0",
   "author": "OlympusOne <info@olympusone.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olympusone/directus-extension-favicon/issues"
+  },
+  "homepage": "https://github.com/olympusone/directus-extension-favicon#readme",
   "keywords": [
     "directus",
     "directus-extension",

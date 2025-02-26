@@ -28,10 +28,6 @@ Once installed, restart your Directus instance. The extension will automatically
 
 No additional configuration is required. The extension fetches the favicon set in your Directus project settings and serves it when requested.
 
-## Compatibility
-
-- Directus 11
-
 ## License
 
 MIT
