@@ -2,7 +2,7 @@
   "name": "@olympusone/directus-extension-favicon",
   "description": "Expose the favicon of the Directus instance",
   "icon": "extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "OlympusOne <info@olympusone.com>",
   "license": "MIT",
   "bugs": {
