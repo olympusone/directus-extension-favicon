@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "chakrounanas.turbo-console-log",
+    "editorconfig.editorconfig",
+    "oderwat.indent-rainbow",
+    "visualstudioexptteam.vscodeintellicode",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    "christian-kohler.npm-intellisense",
+    "codeandstuff.package-json-upgrade",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "gruntfuggly.todo-tree",
+    "chouzz.vscode-better-align",
+    "streetsidesoftware.code-spell-checker",
+    "xabikos.javascriptsnippets",
+  ]
+}
