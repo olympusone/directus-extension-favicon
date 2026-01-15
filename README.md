@@ -38,4 +38,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests on [
 
 ## Author
 
-Developed by **OlympusOne**
+Copyright (c) 2025 OlympusOne, released under the MIT.
